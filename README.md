@@ -2,7 +2,7 @@
 ## MARKDOWN
 ### Bold(ตัวหนา)
         เราสามารถเขียนได้โดยการ **...*** หรือ __...__
-        '*** hello ***'
+        *** hello ***
 #### Keyboard shortcut
         command+B (Mac)
         ctrl+B (windows/Linux)
