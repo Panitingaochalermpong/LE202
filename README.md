@@ -12,9 +12,13 @@
         command+I (Mac)
         ctrl+I (windows/Linux)
 *hello*
-### strikethrough
+### strikethrough(ขีดค่า)
         เราสามารถเขียนได้โดยการ ~~...~~
 ~~hello~~
-### Bold and nested italic
+### Bold and nested italic(ตัวหนาผสมตัวเอียง)
         เราสามารถเขียนได้โดยการ **..._..._...**
 **hello *I love you* Jub**
+### All bold and italic(ตัวหนาและตัวเอียง)
+        เราสามารถเขียนได้โดยการ ***...***
+***hello***
+        
