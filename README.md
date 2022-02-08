@@ -1,1 +1,1 @@
-ruby plug
+`ruby plug`
