@@ -2,8 +2,10 @@
 ## MARKDOWN
 ### Bold(ตัวหนา)
         เราสามารถเขียนได้โดยการ **...*** หรือ __...__
+        '***hello***'
 #### Keyboard shortcut
         command+B (Mac)
         ctrl+B (windows/Linux)
-    
+### italic(ตัวเอียง)
+        เราสามารถเขียนได้โดยการ 
  
