@@ -17,4 +17,4 @@
 ~~hello~~
 ### Bold and nested italic
         เราสามารถเขียนได้โดยการ **..._..._...**
-**hello*I love you*Jub**
+**hello *I love you* Jub**
