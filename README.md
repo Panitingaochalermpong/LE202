@@ -15,3 +15,6 @@
 ### strikethrough
         เราสามารถเขียนได้โดยการ ~~...~~
 ~~hello~~
+### Bold and nested italic
+        เราสามารถเขียนได้โดยการ **..._..._...**
+**hello_I love you_Jub**
