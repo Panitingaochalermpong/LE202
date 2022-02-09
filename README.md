@@ -31,4 +31,7 @@
 *ใช้เชื่อมโยงกัน
 ```
 **Program Lang**
+```ruby
+*C_language,Java_language,python
+```
 
