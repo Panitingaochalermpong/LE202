@@ -17,8 +17,11 @@
 - **Computer การวิวัฒนาการ มีขนาดเล็กลง มีความเร็วสูงขึ้นและมีความจุสูงขึ้น ใช้เชื่อมโยงผ่าน internet**
 - **Internet ใช้เชื่อมโยงกัน**
 - **Program Lang**
-    - **C_language**
-    - **Java_language**
+    - **C language**
+    - **Java language**
     - **Python**
-- **Platformio**
-
+- **Platformio โปรแกรมบนคอมพิวเตอร์ขนาดเล็กหรือInternet of thingหรือMicrocontroller การพัฒนาโปรแกรมแบบเปิด ที่ใช้ในการเขียนโปรแกรมแบบเดียวแต่สามารถเขียนบนmicrocontrollerได้หลายแบบ**
+    - **บริษัท**    
+        - **AVR**
+        - **megaAVR**
+        - **Espressif 32**
