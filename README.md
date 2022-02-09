@@ -11,4 +11,5 @@
 
 ## Microcontroller
 *การเอาสัณญาณไฟฟ้ามาแทนด้วยตัวเลขเรียกว่า```ruby 
-digital```
+digital
+```
