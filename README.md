@@ -32,6 +32,6 @@
 ```
 **Program Lang**
 ```ruby
-*C_language,Java_language,python 
+*C_language,Java_language,Python
 ```
 
