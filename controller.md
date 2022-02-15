@@ -16,5 +16,10 @@
 - link https://products.espressif.com/#/product-selector?names=
 - speed 240 MHz
 - Memory 384 KB of ROM/512 KB of SRAM/16 KB of RTCSRAM
--  a low power coprocessor, a Wi-Fi baseband, a Bluetooth LE baseband, RF module, and peripherals. The block/diagram of the SoC is shown below
-## Arduino
+- a low power coprocessor, a Wi-Fi baseband, a Bluetooth LE baseband, RF module, and peripherals. The block/diagram of the SoC is shown below
+## Wiznet7500
+- price
+- link https://www.wiznet.io/product-item/w7500/
+- speed 48 MHz
+- Memory Flash: 128 KB/SRAM: 16KB to 48 KB ( Min 16KB available if 32KB socket buffer is used, Max 48KB available if no socket buffer is used)/ROM for boot code: 6KB
+- 1 Watchdog (32-bit down-counter)/4 Timers (32-bit or 16-bit down-counter)/8 PWMs (32-bit counter/timers with programmable 6-bit prescaler)
