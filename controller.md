@@ -17,4 +17,4 @@
 - speed 240 MHz
 - Memory 384 KB of ROM/512 KB of SRAM/16 KB of RTCSRAM
 -  a low power coprocessor, a Wi-Fi baseband, a Bluetooth LE baseband, RF module, and peripherals. The block/diagram of the SoC is shown below
-## 
+## Arduino
