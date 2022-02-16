@@ -12,7 +12,7 @@
 - Memory 512 KB
 - 40 digital input/output pins, 31 PWM output pins/14 analog input pins/7 serial, 3 SPI, 3 I2C ports/2 I2S/TDM and 1 S/PDIF digital audio port
 ## Espressif32
-- price $
+- price 333.20 บาท
 - link https://products.espressif.com/#/product-selector?names=
 - speed 240 MHz
 - Memory 384 KB of ROM/512 KB of SRAM/16 KB of RTCSRAM
