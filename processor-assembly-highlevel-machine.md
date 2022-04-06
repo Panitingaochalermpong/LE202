@@ -6,5 +6,10 @@
 ## ตัวอย่างความแตกต่างของภาษาแต่ละระดับ
 - ***ภาษาชั้นสูง (high level language)*** อันนี้เป็นคำสั่งที่จะทำการหาค่าเฉลี่ยของผลบวกของข้อมูล
 - ![image](https://user-images.githubusercontent.com/98943805/161977027-7d1d6f00-3234-4951-b375-ac675c0e51f1.png)
-- ***โปรเซสเซอร์ (processor,microcontroller)*** ที่ใช้ในตัวอย่างนี้คือ 
+- ***โปรเซสเซอร์ (processor,microcontroller)*** ที่ใช้ในตัวอย่างนี้คือ RISC-V rv32gc clang 14.0.0
+- ***ภาษาแอสเซ็มบลี้ (low level language, assembly)***
+- ![image](https://user-images.githubusercontent.com/98943805/162047850-07d5cb6b-df3b-4665-b2af-4aaffa2050dd.png)
+- ![image](https://user-images.githubusercontent.com/98943805/162047954-784dbc32-3741-4db5-8b3c-66561fcfbf1f.png)
+
+
 
